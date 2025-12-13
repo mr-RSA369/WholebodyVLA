@@ -11,11 +11,14 @@
 
 </div>
 
+> ✒️ Haoran Jiang*, Jin Chen*, Qingwen Bu, Li Chen, Modi Shi, Yanjie Zhang, Delong Li, Chuanzhe Suo, Chuang Wang, Zhihui Peng<sup>†</sup>, Hongyang Li<sup>†</sup>
+> 
+> 📧 Primary Contact: Haoran Jiang ([jianghaoran2024@gmail.com](mailto:jianghaoran2024@gmail.com)).
 
 
 ## 🔥 Highlights
 
-- A unified Vision-Language-Action framework for closed-loop humanoid loco-manipulation control in large space.
+- A Vision-Language-Action framework for closed-loop humanoid loco-manipulation control in large space.
 - A novel approach for learning unified latent actions from manipulation and manipulation-aware locomotion videos without action annotations.
 - A locomotion-oriented reinforcement learning policy that enables precise and stable whole-body coordination under disturbances.
 
@@ -28,15 +31,16 @@ WholeBodyVLA is a unified Vision-Language-Action framework for large-space human
 </div>
 
 <div align="center">
-  <video width="70%" controls>
-    <source src="https://assets.kinetixai.cn/WholeBodyVLA/long.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
+  <img src="asset/long2.gif" width="32%">
+  <img src="asset/coffee.gif" width="32%">
+  <img src="asset/chair.gif" width="32%">
 </div>
 
 **See more on [project website](https://opendrivelab.com/wholebodyvla).**
 
-📝 **Note:** We currently have no plans to open-source the codebase. This repository now serves as a collection of resources and references for the whole-body humanoid VLA research community. We welcome discussions and collaborations! For inquiries, please contact [Haoran Jiang](mailto:jianghaoran2024@gmail.com) (jianghaoran2024@gmail.com).
+📝 **Note:** We currently have no plans to open-source the codebase. This repository now serves as a collection of resources and references for the whole-body humanoid VLA research community. We welcome discussions and collaborations!
+
+
 
 ---
 
