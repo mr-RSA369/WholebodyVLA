@@ -44,17 +44,114 @@ WholeBodyVLA is a unified Vision-Language-Action framework for large-space human
 
 ---
 
-## Let's go for VLA on humanoids!
+**Let's go for VLA on humanoids!**
 
-Below is a curated list of the latest advances in whole-body humanoid Vision-Language-Action (VLA) systems.
 
-## Awesome Whole-body Humanoid VLA Paper List
+# Awesome Vision–Language–Action for Humanoid Robots
 
 *Coming soon...*
 
-<!-- Add your paper list here -->
+A curated list of research on **Vision–Language–Action (VLA)** models for humanoid robots, with a focus on **loco-manipulation**.
 
 ---
+
+## High-Level Reasoning & Planning for Humanoids
+
+
+### Vision–Language–Based Task Planning
+
+
+- (paper) ...
+
+
+### Planning with Motion Capture
+
+
+- (paper) ...
+
+
+### Hierarchical and Modular Design
+
+
+- (paper) ...
+
+
+### Motion Generation
+
+
+- (paper) ...
+
+---
+
+## Whole-Body Controller for Loco-Manipulation
+
+
+### Behavior Foundation Models
+
+
+- (paper) ...
+
+
+### Universal Whole-Body Tracking
+
+- (paper) ...
+
+
+### Velocity Tracking
+
+- (paper) ...
+
+
+## Hardware Setup, Teleoperation & Data Collection
+
+
+- (paper) ...
+
+---
+
+## Generalist Vision–Language–Action Models
+
+
+### In-Place Manipulation
+
+
+- (paper) ...
+
+
+### Mobile Manipulation 
+
+- (paper) ...
+
+
+### Navigation
+
+- (paper) ...
+
+
+
+<!-- ## Physics-Based Characters Control & Motion Generation
+
+
+### Motion Generation Model
+
+
+- (paper) ...
+- (paper) ...
+
+
+### Physics-Based Character Control
+
+Control and reinforcement learning methods for physically simulated humanoid characters with rich contact dynamics.
+
+- (paper) ...
+- (paper) ...
+
+---
+
+
+--- -->
+
+
 
 <div align="center">
 
