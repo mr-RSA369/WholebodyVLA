@@ -51,9 +51,10 @@ WholeBodyVLA is a unified Vision-Language-Action framework for large-space human
 
 *Coming soon...*
 
+
+
 A curated list of research on **Vision–Language–Action (VLA)** models for humanoid robots, with a focus on **loco-manipulation**.
 
----
 
 ## High-Level Reasoning & Planning for Humanoids
 
@@ -81,7 +82,6 @@ A curated list of research on **Vision–Language–Action (VLA)** models for hu
 
 - (paper) ...
 
----
 
 ## Whole-Body Controller for Loco-Manipulation
 
@@ -107,7 +107,6 @@ A curated list of research on **Vision–Language–Action (VLA)** models for hu
 
 - (paper) ...
 
----
 
 ## Generalist Vision–Language–Action Models
 
@@ -152,9 +151,9 @@ Control and reinforcement learning methods for physically simulated humanoid cha
 --- -->
 
 
-
+<!-- 
 <div align="center">
 
 **Made with ❤️ by [OpenDriveLab](https://opendrivelab.com/)**
 
-</div>
+</div> -->
