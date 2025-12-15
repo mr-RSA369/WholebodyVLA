@@ -53,7 +53,7 @@ WholeBodyVLA is a unified Vision-Language-Action framework for large-space human
 
 
 
-A curated list of research on **Vision–Language–Action (VLA)** models for humanoid robots, with a focus on **loco-manipulation**.
+A curated list of research on **Vision–Language–Action (VLA)** models and related for humanoid robots, with a focus on **loco-manipulation** task.
 
 *Coming soon...*
 
@@ -104,8 +104,7 @@ A curated list of research on **Vision–Language–Action (VLA)** models for hu
 - (paper) ...
 
 
-## Hardware Setup, Teleoperation & Data Collection
-
+## Hardware Modification
 
 - (paper) ...
 
