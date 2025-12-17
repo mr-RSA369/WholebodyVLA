@@ -303,7 +303,7 @@ We refer to and recommend several curated paper lists and repositories:
 ## Contributors
 This project is contributed by: 
 [Jin Chen](https://github.com/JinChen0056), 
-Yucheng Huang, 
+[Yucheng Huang](https://github.com/ale4638), 
 [Haoran Jiang](https://github.com/HRRiver7), 
 [Yixuan Pan](https://lzpyx.github.io/), 
 [Shijia Peng](https://github.com/ShijiaPeng03), 
