@@ -305,7 +305,7 @@ This project is contributed by:
 [Jin Chen](https://github.com/JinChen0056), 
 Yucheng Huang, 
 [Haoran Jiang](https://github.com/HRRiver7), 
-[Yixuan Pan](https://github.com/lzpyx), 
+[Yixuan Pan](https://lzpyx.github.io/), 
 [Shijia Peng](https://github.com/ShijiaPeng03), 
 [Jialong Zeng](https://github.com/jialongzeng), 
 [Hai Zhang](https://github.com/betray12138). 
